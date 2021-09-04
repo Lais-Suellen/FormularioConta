@@ -1,0 +1,59 @@
+
+*{
+    família da fonte: 'Indie Flower', cursiva;
+  }
+  
+  body {
+    background: linear-gradient(180deg, #a58179 0%, #e9553be5 123.44%);
+  }
+  
+  p{font-size: 20px;
+    color: black;
+    margin-top: 25px;
+    text-align: center;
+  }
+  h1{
+    font-size: 34px;
+    font-weight: bold;
+    text-align:  center;
+    color: black;
+    margin-top: 165px;
+  }
+  input {
+  width: 342px;
+  height: 74px;
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 17px;
+  padding-left: 17px;
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+  outline: none;
+  }
+  
+  button{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    background: black;
+    width: 342px;
+    height: 74px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+  }   
+  
+  button:active{
+    opacity: 0.6;
+  }
+  a{
+    margin-top: 140px;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    cursor: pointer;
+  }
